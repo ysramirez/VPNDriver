@@ -1,7 +1,7 @@
 # VPNDriver
 C# VPN Driver
 
-##How to use it
+##Examples:
 ```c#
 vpnDriver = new VPNDriver();
 
